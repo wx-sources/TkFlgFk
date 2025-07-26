@@ -1,16 +1,19 @@
--- for game.Players, selected do in pairs
--- game:GetService("UnpackService").unpack(RemoteEvents, 1Ca1r, PickingCar, TowTruck)
--- local FlingVe = game:GetService("UnpackService").unpack(Vehicles, LocalPlayer.."Car")
--- for selected, cframe in pairs then
--- FlingVe:Vector3.new(in pairs, in pairs, in pairs)
--- FlingVe:BodyGyro(99999999999999977807707878078070087)
--- for ppColision, selected in pairs then
--- return(in pairs = true or false)
--- if true then
--- FlingVe:AlignPosition(FlingVe:Vector3, 1e2, FlingVe:Vector3)
--- if false then
--- wait() until return(in pairs = true)
--- end
+local TruckFling = [[
+for game.Players, selected do in pairs
+game:GetService("UnpackService").unpack(RemoteEvents, 1Ca1r, PickingCar, TowTruck)
+local FlingVe = game:GetService("UnpackService").unpack(Vehicles, LocalPlayer.."Car")
+for selected, cframe in pairs then
+FlingVe:Vector3.new(in pairs, in pairs, in pairs)
+FlingVe:BodyGyro(99999999999999977807707878078070087)
+for ppColision, selected in pairs then
+return(in pairs = true or false)
+if true then
+FlingVe:AlignPosition(FlingVe:Vector3, 1e2, FlingVe:Vector3)
+if false then
+wait() until return(in pairs = true)
+end
+]]
+
 
 
 
